@@ -1,0 +1,32 @@
+[
+  {
+    "model": "msn_app.userprofile",
+    "pk": 1,
+    "fields": {
+      "country": "Poland",
+      "city": "Warsaw",
+      "user_id": 1,
+      "date_of_birth": "1991-01-01"
+    }
+  },
+  {
+    "model": "msn_app.userprofile",
+    "pk": 2,
+    "fields": {
+      "country": "Turkey",
+      "city": "Istanbul",
+      "user_id": 2,
+      "date_of_birth": "1998-10-10"
+    }
+  },
+  {
+    "model": "msn_app.userprofile",
+    "pk": 3,
+    "fields": {
+      "country": "Hungary",
+      "city": "Budapest",
+      "user_id": 3,
+      "date_of_birth": "1965-06-12"
+    }
+  }
+]

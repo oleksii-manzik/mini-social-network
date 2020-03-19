@@ -1,0 +1,47 @@
+[
+  {
+    "model": "msn_app.post",
+    "pk": 1,
+    "fields": {
+      "created": "2020-03-11T12:15:00+00:00",
+      "owner_id": 1,
+      "text": "Hello World! It is my first post. \nSome Guy"
+    }
+  },
+  {
+    "model": "msn_app.post",
+    "pk": 2,
+    "fields": {
+      "created": "2020-03-11T12:30:00+00:00",
+      "owner_id": 1,
+      "text": "It's again me Some Guy. And it is my second post."
+    }
+  },
+  {
+    "model": "msn_app.post",
+    "pk": 3,
+    "fields": {
+      "created": "2020-03-11T13:05:59+00:00",
+      "owner_id": 2,
+      "text": "This social network sucks!!!!"
+    }
+  },
+  {
+    "model": "msn_app.post",
+    "pk": 4,
+    "fields": {
+      "created": "2020-03-12T14:01:00+00:00",
+      "owner_id": 3,
+      "text": "I am just little kid. I like it a lot!"
+    }
+  },
+  {
+    "model": "msn_app.post",
+    "pk": 5,
+    "fields": {
+      "created": "2020-03-12T14:02:01+00:00",
+      "owner_id": 2,
+      "text": "Quick reminder that this social network still sucks"
+    }
+  }
+]
