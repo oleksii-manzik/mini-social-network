@@ -1,0 +1,35 @@
+[
+  {
+    "model": "msn_app.user",
+    "pk": 1,
+    "fields": {
+      "first_name": "Some",
+      "last_name": "Guy",
+      "email": "some.guy@gmail.com",
+      "password": "pbkdf2_sha256$180000$0yKC2GpsMay7$Js64xQb26OdPFhrEsMEVJMhDQhIqXssphFlPPMUuNEU=",
+      "date_joined": "2020-03-11T12:00:00+00:00"
+    }
+  },
+  {
+    "model": "msn_app.user",
+    "pk": 2,
+    "fields": {
+      "first_name": "This",
+      "last_name": "Girl",
+      "email": "this.girl@gmail.com",
+      "password": "pbkdf2_sha256$180000$xUzJLOWi2ALf$csJnHuNdK+VIRf/w1rf3F7g9c9LKmUEsG4W7u85YZkc=",
+      "date_joined": "2020-03-10T10:10:40+00:00"
+    }
+  },
+  {
+    "model": "msn_app.user",
+    "pk": 3,
+    "fields": {
+      "first_name": "Just",
+      "last_name": "Kid",
+      "email": "just.kid@gmail.com",
+      "password": "pbkdf2_sha256$180000$glncXmJBspFQ$UFxra+uj9tCht6wbXqL9VaJcrAVUu69okLF9efrZPQQ=",
+      "date_joined": "2020-03-11T09:48:07+00:00"
+    }
+  }
+]

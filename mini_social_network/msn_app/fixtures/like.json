@@ -1,0 +1,42 @@
+[
+  {
+    "model": "msn_app.like",
+    "pk": 1,
+    "fields": {
+      "is_liked": true,
+      "owner_id": 1,
+      "post_id": 3,
+      "created": "2020-03-11T13:06:18+00:00"
+    }
+  },
+  {
+    "model": "msn_app.like",
+    "pk": 2,
+    "fields": {
+      "is_liked": false,
+      "owner_id": 1,
+      "post_id": 3,
+      "created": "2020-03-11T13:07:08+00:00"
+    }
+  },
+  {
+    "model": "msn_app.like",
+    "pk": 3,
+    "fields": {
+      "is_liked": true,
+      "owner_id": 3,
+      "post_id": 1,
+      "created": "2020-03-12T15:15:00+00:00"
+    }
+  },
+  {
+    "model": "msn_app.like",
+    "pk": 4,
+    "fields": {
+      "is_liked": true,
+      "owner_id": 1,
+      "post_id": 4,
+      "created": "2020-03-12T15:16:00+00:00"
+    }
+  }
+]
